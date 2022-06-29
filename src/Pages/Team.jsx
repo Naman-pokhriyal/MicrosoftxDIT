@@ -14,12 +14,12 @@ import P9 from "../media/Vanshika Agarwal.png";
 import P10 from "../media/Jyotin Rustagi.png";
 import P11 from "../media/shivani bahuguna.png";
 import P12 from "../media/Aditi Sharma.png";
-import P13 from "../media/Naman Pokhriyal.jpg";
+import P13 from "../media/Naman2.jpg";
 import P14 from "../media/Navdha Talwar.png";
 import P15 from "../media/PRAJJWAL CHAUHAN.png";
 import P16 from "../media/Vanshika Agarwal.png";
 import P17 from "../media/prisha.png";
-import P18 from "../media/Naman Pokhriyal.jpg";
+import P18 from "../media/Naman2.jpg";
 
 export default function Team() {
   const teamMembers = [
