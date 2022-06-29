@@ -1,13 +1,50 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+
+:root {
+  --defaultText: #fff;
+  --background: #0c0c0c;
+  --darkColor: #261430;
+  --purple: #7c16b0;
+  --pink: #cf7fdc;
+  --darkBlue: #28077b;
+  --lightBlue: #440da5;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+  color: var(--defaultText);
+}
+a {
+  text-decoration: none;
+  color: var(--defaultText);
+}
+ul {
+  list-style: none;
+}
+html {
+  background-color: var(--background);
+  scroll-behavior: smooth;
+}
+main {
+  min-height: calc(100vh - 265px);
+  z-index: 1;
+}
+.title {
+  font-size: 35px;
+}
+.text {
+  font-size: 25px;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background-color: #0c0c0c;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #cf7fdc;
 }

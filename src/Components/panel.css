@@ -1,0 +1,23 @@
+.panel {
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.panel-text {
+  font-size: 60px;
+  color: transparent;
+  background: linear-gradient(
+    269deg,
+    #8250d7,
+    #7c16b0,
+    #e1e1e1,
+    #e172f3,
+    #c6a1e9,
+    #440da5,
+    #8c229c
+  );
+  background-clip: text;
+  background-size: 800% 800%;
+  animation: Glide 7s ease infinite alternate-reverse;
+}

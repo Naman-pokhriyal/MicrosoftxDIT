@@ -1,0 +1,28 @@
+.about {
+  position: relative;
+  display: flex;
+}
+/* .container {
+  position: absolute;
+  top: 0;
+  right: 50px;
+} */
+/* ShortCards */
+.shortCards {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(32%, 100px));
+  place-items: center;
+  grid-gap: 5px;
+  padding: 40px;
+}
+.shortCard {
+  display: flex;
+  flex-direction: row;
+  padding: 5px;
+}
+.shortIcon {
+  margin-right: 5px;
+}
+.shortName {
+}

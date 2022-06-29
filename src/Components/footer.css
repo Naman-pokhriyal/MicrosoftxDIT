@@ -1,0 +1,24 @@
+footer {
+  height: 180px;
+  background: #131313;
+  z-index: 2;
+}
+.ftop {
+  padding: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.footer-text {
+  font-size: 20px;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+.follow-list {
+  display: flex;
+  justify-content: space-around;
+}
+.fbottom {
+  text-align: center;
+  padding: 20px;
+  background-color: #000;
+}

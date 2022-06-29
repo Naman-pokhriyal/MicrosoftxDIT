@@ -1,0 +1,98 @@
+.intro {
+  min-height: 500px;
+  height: calc(100vh - 70px);
+  position: relative;
+}
+.intro-text {
+  font-size: 40px;
+  position: absolute;
+  top: 20%;
+  left: 20%;
+}
+.intro-text p {
+  font-size: 50px;
+  margin-top: 5%;
+  font-weight: bold;
+  color: transparent;
+}
+.intro-text p {
+  background: linear-gradient(
+    269deg,
+    #8250d7,
+    #7c16b0,
+    #e1e1e1,
+    #e172f3,
+    #c6a1e9,
+    #440da5,
+    #8c229c
+  );
+  background-clip: text;
+  background-size: 800% 800%;
+  animation: Glide 10s ease infinite alternate-reverse;
+}
+.laptop {
+  position: absolute;
+  right: 60px;
+  bottom: 150px;
+}
+.circle {
+  width: 50px;
+  height: 50px;
+  background-color: var(--purple);
+  border-radius: 50%;
+  box-shadow: 0 0 20px var(--purple);
+  cursor: pointer;
+  position: absolute;
+  display: grid;
+  place-items: center;
+  transform: translate(50%, 50%);
+  bottom: 100px;
+  left: 50%;
+  transition: all 0.4s linear;
+}
+.circle:hover {
+  background-color: var(--pink);
+}
+.downicon {
+  transform: translateY(5%);
+  transition: all 0.4s linear;
+}
+.circle:hover .downicon {
+  fill: #fff;
+  transform: translateY(20%);
+}
+
+#overview {
+  margin: 40px;
+  padding: 30px;
+  position: relative;
+}
+.overview-content {
+  margin: 30px;
+  padding: 30px;
+  max-width: 70%;
+  border-radius: 10px;
+  background: linear-gradient(
+    163.43deg,
+    hsla(0, 0%, 100%, 0.05) 4.58%,
+    hsla(0, 0%, 100%, 0.2) 95.8%
+  );
+  box-shadow: 0 4px 24px -1px rgba(143, 143, 143, 0.062);
+}
+.girlAvatar {
+  position: absolute;
+  bottom: 20px;
+  right: 15%;
+}
+
+@keyframes Glide {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
