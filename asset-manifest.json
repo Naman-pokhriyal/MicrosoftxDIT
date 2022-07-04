@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/MicrosoftxDIT/static/css/main.e52b89dd.css",
+    "main.js": "/MicrosoftxDIT/static/js/main.dcc2a906.js",
+    "static/js/232.1cd7b411.chunk.js": "/MicrosoftxDIT/static/js/232.1cd7b411.chunk.js",
+    "static/media/Ansh Tyagi.png": "/MicrosoftxDIT/static/media/Ansh Tyagi.2106cc822e18b1882fda.png",
+    "static/media/Raghav Gupta.png": "/MicrosoftxDIT/static/media/Raghav Gupta.a78f45b57e93aa419dc3.png",
+    "static/media/prisha.png": "/MicrosoftxDIT/static/media/prisha.e884b255f5528c98e705.png",
+    "static/media/Jyotin Rustagi.png": "/MicrosoftxDIT/static/media/Jyotin Rustagi.f6758ee04efe0777fb4f.png",
+    "static/media/Shubh Khanna.png": "/MicrosoftxDIT/static/media/Shubh Khanna.b064617740bc7452c273.png",
+    "static/media/Naman2.jpg": "/MicrosoftxDIT/static/media/Naman2.f0f989a06bf113826faa.jpg",
+    "static/media/Navdha Talwar.png": "/MicrosoftxDIT/static/media/Navdha Talwar.0f02be683413e184da68.png",
+    "static/media/Aditi Sharma.png": "/MicrosoftxDIT/static/media/Aditi Sharma.6953e3f1ccee8f44088b.png",
+    "static/media/Utkarsh Dwivedi.png": "/MicrosoftxDIT/static/media/Utkarsh Dwivedi.095b4223bf6ba23138ae.png",
+    "static/media/Vanshika Agarwal.png": "/MicrosoftxDIT/static/media/Vanshika Agarwal.dcb74928a9d9fc786697.png",
+    "static/media/PRAJJWAL CHAUHAN.png": "/MicrosoftxDIT/static/media/PRAJJWAL CHAUHAN.8e533899f38a281710f0.png",
+    "static/media/Ameesha Thakur.jpg": "/MicrosoftxDIT/static/media/Ameesha Thakur.844720f019e623ef6a43.jpg",
+    "static/media/naman.jpg": "/MicrosoftxDIT/static/media/naman.c6d1b95adf3d7be32316.jpg",
+    "static/media/shivani bahuguna.png": "/MicrosoftxDIT/static/media/shivani bahuguna.02a6a04046734cfb37f0.png",
+    "index.html": "/MicrosoftxDIT/index.html",
+    "main.e52b89dd.css.map": "/MicrosoftxDIT/static/css/main.e52b89dd.css.map",
+    "main.dcc2a906.js.map": "/MicrosoftxDIT/static/js/main.dcc2a906.js.map",
+    "232.1cd7b411.chunk.js.map": "/MicrosoftxDIT/static/js/232.1cd7b411.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e52b89dd.css",
+    "static/js/main.dcc2a906.js"
+  ]
+}
