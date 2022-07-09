@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MicrosoftxDIT/static/css/main.e52b89dd.css",
-    "main.js": "/MicrosoftxDIT/static/js/main.dcc2a906.js",
+    "main.js": "/MicrosoftxDIT/static/js/main.06328d04.js",
     "static/js/232.1cd7b411.chunk.js": "/MicrosoftxDIT/static/js/232.1cd7b411.chunk.js",
     "static/media/Ansh Tyagi.png": "/MicrosoftxDIT/static/media/Ansh Tyagi.2106cc822e18b1882fda.png",
     "static/media/Raghav Gupta.png": "/MicrosoftxDIT/static/media/Raghav Gupta.a78f45b57e93aa419dc3.png",
@@ -19,11 +19,11 @@
     "static/media/shivani bahuguna.png": "/MicrosoftxDIT/static/media/shivani bahuguna.02a6a04046734cfb37f0.png",
     "index.html": "/MicrosoftxDIT/index.html",
     "main.e52b89dd.css.map": "/MicrosoftxDIT/static/css/main.e52b89dd.css.map",
-    "main.dcc2a906.js.map": "/MicrosoftxDIT/static/js/main.dcc2a906.js.map",
+    "main.06328d04.js.map": "/MicrosoftxDIT/static/js/main.06328d04.js.map",
     "232.1cd7b411.chunk.js.map": "/MicrosoftxDIT/static/js/232.1cd7b411.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e52b89dd.css",
-    "static/js/main.dcc2a906.js"
+    "static/js/main.06328d04.js"
   ]
 }
